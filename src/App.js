@@ -7,6 +7,13 @@ function App() {
   return (
     <div className="App">
       <Weather />
+      <a
+        href="https://github.com/lyukhymchak/react-weather-app"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        Git repo
+      </a>
     </div>
   );
 }
